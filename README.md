@@ -13,7 +13,7 @@ Building scalable AI products using LLMs, Vector Databases, Computer Vision, and
 
 ---
 
-## 🧠 About Me
+## 🌟 About Me
 
 ```python
 class PoorviGupta:
@@ -40,6 +40,7 @@ class PoorviGupta:
         return "Build scalable AI systems solving real-world problems"
 ```
 
+-🔭 **Passionate** about building responsive, scalable, and user-friendly applications
 - 🚀 Building production-ready AI applications
 - 🧠 Exploring LLM orchestration and RAG architectures
 - 👁️ Working on Computer Vision and multimodal AI systems
