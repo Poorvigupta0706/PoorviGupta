@@ -95,20 +95,42 @@ class PoorviGupta:
 
 # 🚀 Featured AI Projects
 
-## 🔹 EDUMATE — AI Learning Platform
-AI-powered learning platform with recommendation systems, NLP-based assessments, predictive analytics, OCR, and LLM integration.
+### 🧠 **EDUMATE – AI-Powered Smart Learning Platform**
+> Intelligent AI-driven education platform powered by LLMs, RAG pipelines, and real-time AI accessibility features
 
-## 🔹 Antispoofing Fake Face Recognition System
-Real-time anti-spoofing face recognition system using YOLO, OpenCV, TensorFlow, and liveness detection.
+**EDUMATE** is a full-stack AI-powered learning platform that transforms traditional education through personalized recommendations, RAG-based intelligent learning assistance, NLP-driven assessments, predictive analytics, and real-time accessibility tools. The platform leverages modern Generative AI technologies to create adaptive and interactive learning experiences.
 
-## 🔹 AI HR Agent
-LLM-powered HR screening agent with semantic candidate matching, LangChain workflows, vector search, and LangSmith tracing.
+**🛠️ Tech Stack**: Python • Flask • NLP • RAG • Transformers • Gemini AI • Whisper AI • OCR • SQLite/MySQL • REST APIs
 
-## 🔹 Fog Removal & Vehicle Overspeed Detection
-Computer vision system for fog removal and vehicle speed estimation using AOD modeling, OpenCV, and PyTorch.
+**✨ Key Features**:
+- AI-powered recommendation system for personalized learning
+- RAG-based intelligent question-answering and learning assistance
+- NLP-driven automated assessments and evaluation
+- Predictive analytics for identifying at-risk students
+- Whisper AI-based real-time transcription and accessibility support
+- OCR integration for document and text extraction
+- LLM-powered interactive educational assistance
+- Secure authentication and role-based access control
 
-## 🔹 Multi-Document RAG System
-Semantic document retrieval and question-answering system using embeddings, vector databases, and LLM pipelines.
+**[🔗 View Project](https://github.com/Poorvigupta0706/Study-Partner-Edumate.git)** | **[🌐 Live Demo](#)**
 
-## 🔹 AmbitionBox Company Data Scraper
-Automated web scraping system using Python, BeautifulSoup, and Pandas to extract structured company insights and export clean datasets to CSV.
+
+### 🤖 **AI HR Agent – Intelligent Recruitment & Resume Screening System**
+> AI-powered recruitment assistant for automated resume screening, semantic candidate matching, and intelligent hiring workflows
+
+**AI HR Agent** is a modern Generative AI recruitment platform that streamlines the hiring process using LLMs, semantic search, vector embeddings, and explainable AI workflows. The platform intelligently analyzes resumes, matches candidates with job descriptions, and provides AI-driven recruitment insights with secure and scalable AI pipelines.
+
+**🛠️ Tech Stack**: Python • FastAPI • Streamlit • OpenAI • LangChain • LangSmith • Vector Search • SQLite • Pydantic
+
+**✨ Key Features**:
+- AI-powered resume parsing and candidate screening
+- Semantic candidate matching using embeddings and vector search
+- Job description analysis with intelligent match scoring
+- Explainable AI workflows for transparent hiring decisions
+- PDF, DOCX, and LinkedIn profile ingestion pipelines
+- LangSmith integration for tracing, monitoring, and debugging
+- Structured validation and hallucination reduction pipelines
+- Human-in-the-loop review and secure AI workflow management
+
+**[🔗 View Project](https://github.com/Poorvigupta0706/HR-Agent.git)** | **[🌐 Live Demo](#)**
+
