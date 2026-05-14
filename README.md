@@ -11,7 +11,7 @@ Building scalable AI products using LLMs, Vector Databases, Computer Vision, and
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer;Generative+AI;Agentic+AI;LLMs+%26+RAG;LangChain+%26+LangSmith;Computer+Vision;LLMOps+%26+AI+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Generative+AI+%26+Agentic+AI;LLMs+%26+RAG+Systems;LangChain+%26+LangSmith;Computer+Vision;LLMOps+%26+AI+Infrastructure" alt="Typing SVG" />
 </p>
 
 ---
