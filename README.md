@@ -1,10 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Poorvi Gupta</h1>
 
 <h3 align="center">
-🚀 <h3 align="center">
-<h3 align="center">
-<h3 align="center">
-AI/ML Engineer | Generative AI • Agentic AI • LLMs • RAG • LangChain • LangSmith • Computer Vision • LLMOps
+🚀 AI/ML Engineer | Generative AI • Agentic AI • LLMs • RAG • LangChain • LangSmith • Computer Vision • LLMOps
 </h3>
 <p align="center">
 Building scalable AI products using LLMs, Vector Databases, Computer Vision, and Cloud Infrastructure.
