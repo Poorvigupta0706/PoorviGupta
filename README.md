@@ -142,17 +142,17 @@ class PoorviGupta:
 **🛠️ Tech Stack**: Python • AOD-Net • PONO • YOLOv8 • DeepSORT • OpenCV • FastAPI • Streamlit • Pandas • Docker
 
 **✨ Key Features**:
--Image dehazing using AOD-Net with PONO normalization
--Enhanced visibility for low-light and foggy conditions
--Real-time vehicle detection using YOLOv8
--Multi-object tracking with DeepSORT
--Vehicle speed estimation and overspeed detection
--FastAPI-based backend services
--Interactive analytics dashboard with Streamlit
--Traffic data storage and reporting
--Dockerized deployment for portability and scalability
--End-to-end AI-powered traffic surveillance pipeline
+- Image dehazing using AOD-Net with PONO normalization
+- Enhanced visibility for low-light and foggy conditions
+- Real-time vehicle detection using YOLOv8
+- Multi-object tracking with DeepSORT
+- Vehicle speed estimation and overspeed detection
+- FastAPI-based backend services
+- Interactive analytics dashboard with Streamlit
+- Traffic data storage and reporting
+- Dockerized deployment for portability and scalability
+- End-to-end AI-powered traffic surveillance pipeline
 
-**[🔗 View Project](https://github.com/Poorvigupta0706/HR-Agent.git)** | **[🌐 Live Demo](#)**
+**[🔗 View Project](https://github.com/Poorvigupta0706/Dehazing-And-Overspeed-detection.git)** | **[🌐 Live Demo](#)**
 
 
