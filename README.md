@@ -135,3 +135,24 @@ class PoorviGupta:
 
 **[🔗 View Project](https://github.com/Poorvigupta0706/HR-Agent.git)** | **[🌐 Live Demo](#)**
 
+
+
+**🚗 AI-Powered Dehazing & Traffic Monitoring System** combines image enhancement and intelligent traffic surveillance to improve visibility and monitoring accuracy in adverse weather conditions. The platform utilizes AOD-Net with PONO normalization for image dehazing and integrates YOLOv8 and DeepSORT for real-time vehicle detection, tracking, speed estimation, and traffic analytics through scalable APIs and dashboards.
+
+**🛠️ Tech Stack**: Python • AOD-Net • PONO • YOLOv8 • DeepSORT • OpenCV • FastAPI • Streamlit • Pandas • Docker
+
+**✨ Key Features**:
+-Image dehazing using AOD-Net with PONO normalization
+-Enhanced visibility for low-light and foggy conditions
+-Real-time vehicle detection using YOLOv8
+-Multi-object tracking with DeepSORT
+-Vehicle speed estimation and overspeed detection
+-FastAPI-based backend services
+-Interactive analytics dashboard with Streamlit
+-Traffic data storage and reporting
+-Dockerized deployment for portability and scalability
+-End-to-end AI-powered traffic surveillance pipeline
+
+**[🔗 View Project](https://github.com/Poorvigupta0706/HR-Agent.git)** | **[🌐 Live Demo](#)**
+
+
